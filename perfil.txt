@@ -1,0 +1,3 @@
+Nome: Kaio Santos
+Curso: ADS
+Linguagens favoritas: React, Java Script, Python, Html "Laravel"
